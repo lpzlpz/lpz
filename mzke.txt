@@ -8,7 +8,7 @@ shadowsocks=cm2.qqwx6.xyz:9090, method=aes-128-cfb, password=pYxacehd80iV2byBPy,
 shadowsocks=us.qqwx6.xyz:3389, method=aes-128-cfb, password=ZuNdgZRnUYKcdK14g1A8Q71nV3XJ, fast-open=false, udp-relay=false, tag=mzke美国1
 shadowsocks=cm2.qqwx6.xyz:3389, method=aes-128-cfb, password=niuniuchacha123, fast-open=false, udp-relay=false, tag=mzke美国2
 shadowsocks=ccm2.qqwx6.xyz:7171, method=aes-128-cfb, password=niuniuchacha123, fast-open=false, udp-relay=false, tag=mzke莫斯科
-shadowsocks=n73.boom.party:15000, method=aes-256-cfb, password=Uk92CS, ssr-protocol=auth_aes128_sha1, ssr-protocol-param=142401:5qoeLE, obfs=http_simple, fast-open=false, udp-relay=false, tag=日本
+shadowsocks=n73.boom.party:15000, method=aes-256-cfb, password=Uk92CS, ssr-protocol=auth_aes128_sha1, ssr-protocol-param=142401:5qoeLE, obfs=http_simple, fast-open=true, udp-relay=true, tag=日本
 http=a1.ap.fastqvpn.com:29980, username=282520517406097408, password=21989f92-9154-499f-b9dd-86987239a94f, over-tls=true, tls-verification=true, fast-open=true, udp-relay=true, tag=一键连1
 vmess=ap1-hk.sanjijia.club:443, method=chacha20-ietf-poly1305, password=01bead0e-3382-4e68-88d8-db16989cc6b1, obfs=wss, obfs-host=ap1-hk.sanjijia.club, obfs-uri=/ray, tls-verification=true, fast-open=false, udp-relay=false, tag=一键连香港（备用2）
 http=a1.ap.fastqvpn.com:29980, username=290966496207699968, password=01bead0e-3382-4e68-88d8-db16989cc6b1, over-tls=true, tls-verification=true, fast-open=false, udp-relay=false, tag=一键连（备用2）

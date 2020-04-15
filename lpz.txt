@@ -1,0 +1,4 @@
+vmess = jp.pv2.xyz:443, method=chacha20-ietf-poly1305, password=e6d093b4-7eb8-11ea-a0c7-000d3a07de83, obfs=over-tls, obfs-host=jp.pv2.xyz, tag=MzkeVPN-日本
+vmess = hk.pv2.xyz:443, method=chacha20-ietf-poly1305, password=e6d093b4-7eb8-11ea-a0c7-000d3a07de83, obfs=over-tls, obfs-host=hk.pv2.xyz, tag=MzkeVPN-香港
+vmess = us.pv2.xyz:443, method=chacha20-ietf-poly1305, password=e6d093b4-7eb8-11ea-a0c7-000d3a07de83, obfs=over-tls, obfs-host=us.pv2.xyz, tag=MzkeVPN-美国
+vmess = ru.pv2.xyz:443, method=chacha20-ietf-poly1305, password=e6d093b4-7eb8-11ea-a0c7-000d3a07de83, obfs=over-tls, obfs-host=ru.pv2.xyz, tag=MzkeVPN-俄罗斯

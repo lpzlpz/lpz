@@ -15,9 +15,7 @@ http=a1.ap.fastqvpn.com:29980, username=290966496207699968, password=01bead0e-33
 shadowsocks=54.255.247.136:443, method=aes-256-cfb, password=amazonskr02, fast-open=false, udp-relay=false, tag=新加坡skr
 shadowsocks=47.240.48.28:45211, method=aes-256-cfb, password=aliskrskr, fast-open=true, udp-relay=true, tag=香港skr
 shadowsocks=18.177.142.15:80, method=aes-256-cfb, password=amazonskr02, fast-open=false, udp-relay=false, tag=美国skr
-vmess=po.fanway.cn:443, method=chacha20-ietf-poly1305, password=0dc58a13-70e1-471e-a60d-78b9a56d6780, obfs=wss, obfs-host=po.fanway.cn, obfs-uri=/f836be02/, tls-verification=true, fast-open=false, udp-relay=false, tag=谷歌云piao
-vmess=154.84.1.121:443, method=chacha20-ietf-poly1305, password=418048af-a293-4b99-9b0c-98ca3580dd23, obfs=wss, obfs-host=www.6107490.xyz, obfs-uri=/footers, tls-verification=true, fast-open=false, udp-relay=false, tag=香港piao
-vmess=23.224.179.166:443, method=chacha20-ietf-poly1305, password=418048af-a293-4b99-9b0c-98ca3580dd23, obfs=wss, obfs-host=www.84683.xyz, obfs-uri=/footers, tls-verification=true, fast-open=false, udp-relay=false, tag=台湾piao
+
 
 shadowsocks=zhendefreeoneoulikepqa.zhxcshop.com:443, method=chacha20-ietf, password=kjasASHLoa, ssr-protocol=auth_aes128_sha1, ssr-protocol-param=6DTvYkX8, obfs=tls1.2_ticket_auth, obfs-host=sacucaoji.com, fast-open=false, udp-relay=false, tag=香港-B蓝兔子
 shadowsocks=nenggongfangprotwonali.zhxcshop.com:443, method=chacha20-ietf, password=kjasASHLoa, ssr-protocol=auth_aes128_sha1, ssr-protocol-param=6DTvYkX8, obfs=tls1.2_ticket_auth, obfs-host=sacucaoji.com, fast-open=false, udp-relay=false, tag=香港-D蓝兔子

@@ -9,19 +9,21 @@ shadowsocks=us.qqwx6.xyz:3389, method=aes-128-cfb, password=ZuNdgZRnUYKcdK14g1A8
 shadowsocks=cm2.qqwx6.xyz:3389, method=aes-128-cfb, password=niuniuchacha123, fast-open=false, udp-relay=false, tag=mzke美国2
 shadowsocks=ccm2.qqwx6.xyz:7171, method=aes-128-cfb, password=niuniuchacha123, fast-open=false, udp-relay=false, tag=mzke莫斯科
 shadowsocks=n73.boom.party:15000, method=aes-256-cfb, password=Uk92CS, ssr-protocol=auth_aes128_sha1, ssr-protocol-param=142401:5qoeLE, obfs=http_simple, fast-open=false, udp-relay=false, tag=日本
-http=106.52.127.72:19951, over-tls=false, fast-open=false, udp-relay=false, tag=网易云野生技
-http=music.desperadoj.com:30002, username=Netease Music, password=none, over-tls=false, fast-open=false, udp-relay=false, tag=Netease China 1
-vmess=po.fanway.cn:443, method=chacha20-ietf-poly1305, password=0dc58a13-70e1-471e-a60d-78b9a56d6780, obfs=wss, obfs-host=po.fanway.cn, obfs-uri=/f836be02/, tls-verification=true, fast-open=false, udp-relay=false, tag=谷歌云piao
-vmess=154.84.1.121:443, method=chacha20-ietf-poly1305, password=418048af-a293-4b99-9b0c-98ca3580dd23, obfs=wss, obfs-host=www.6107490.xyz, obfs-uri=/footers, tls-verification=true, fast-open=false, udp-relay=false, tag=香港piao
-vmess=23.224.179.166:443, method=chacha20-ietf-poly1305, password=418048af-a293-4b99-9b0c-98ca3580dd23, obfs=wss, obfs-host=www.84683.xyz, obfs-uri=/footers, tls-verification=true, fast-open=false, udp-relay=false, tag=台湾piao
+http=a1.ap.fastqvpn.com:29980, username=282520517406097408, password=21989f92-9154-499f-b9dd-86987239a94f, over-tls=true, tls-verification=true, fast-open=false, udp-relay=false, tag=一键连1
+vmess=ap1-hk.sanjijia.club:443, method=chacha20-ietf-poly1305, password=01bead0e-3382-4e68-88d8-db16989cc6b1, obfs=wss, obfs-host=ap1-hk.sanjijia.club, obfs-uri=/ray, tls-verification=true, fast-open=false, udp-relay=false, tag=一键连香港（备用2）
+http=a1.ap.fastqvpn.com:29980, username=290966496207699968, password=01bead0e-3382-4e68-88d8-db16989cc6b1, over-tls=true, tls-verification=true, fast-open=false, udp-relay=false, tag=一键连（备用2）
 shadowsocks=54.255.247.136:443, method=aes-256-cfb, password=amazonskr02, fast-open=false, udp-relay=false, tag=新加坡skr
 shadowsocks=47.240.48.28:45211, method=aes-256-cfb, password=aliskrskr, fast-open=true, udp-relay=true, tag=香港skr
 shadowsocks=18.177.142.15:80, method=aes-256-cfb, password=amazonskr02, fast-open=false, udp-relay=false, tag=美国skr
+vmess=po.fanway.cn:443, method=chacha20-ietf-poly1305, password=0dc58a13-70e1-471e-a60d-78b9a56d6780, obfs=wss, obfs-host=po.fanway.cn, obfs-uri=/f836be02/, tls-verification=true, fast-open=false, udp-relay=false, tag=谷歌云piao
+vmess=154.84.1.121:443, method=chacha20-ietf-poly1305, password=418048af-a293-4b99-9b0c-98ca3580dd23, obfs=wss, obfs-host=www.6107490.xyz, obfs-uri=/footers, tls-verification=true, fast-open=false, udp-relay=false, tag=香港piao
+vmess=23.224.179.166:443, method=chacha20-ietf-poly1305, password=418048af-a293-4b99-9b0c-98ca3580dd23, obfs=wss, obfs-host=www.84683.xyz, obfs-uri=/footers, tls-verification=true, fast-open=false, udp-relay=false, tag=台湾piao
+
 shadowsocks=zhendefreeoneoulikepqa.zhxcshop.com:443, method=chacha20-ietf, password=kjasASHLoa, ssr-protocol=auth_aes128_sha1, ssr-protocol-param=6DTvYkX8, obfs=tls1.2_ticket_auth, obfs-host=sacucaoji.com, fast-open=false, udp-relay=false, tag=香港-B蓝兔子
 shadowsocks=nenggongfangprotwonali.zhxcshop.com:443, method=chacha20-ietf, password=kjasASHLoa, ssr-protocol=auth_aes128_sha1, ssr-protocol-param=6DTvYkX8, obfs=tls1.2_ticket_auth, obfs-host=sacucaoji.com, fast-open=false, udp-relay=false, tag=香港-D蓝兔子
 shadowsocks=144.34.219.191:80, method=chacha20-ietf, password=kjasASHLoa, ssr-protocol=auth_aes128_sha1, ssr-protocol-param=6DTvYkX8, obfs=tls1.2_ticket_auth, obfs-host=sacucaoji.com, fast-open=false, udp-relay=false, tag=洛杉磯-E蓝兔子
 shadowsocks=45.32.229.90:443, method=chacha20-ietf, password=kjasASHLoa, ssr-protocol=auth_aes128_sha1, ssr-protocol-param=6DTvYkX8, obfs=tls1.2_ticket_auth, obfs-host=sacucaoji.com, fast-open=false, udp-relay=false, tag=西雅圖-C蓝兔子
-http=a1.ap.fastqvpn.com:29980, username=282520517406097408, password=21989f92-9154-499f-b9dd-86987239a94f, over-tls=true, tls-verification=true, fast-open=false, udp-relay=false, tag=一键连1
-vmess=ap1-hk.sanjijia.club:443, method=chacha20-ietf-poly1305, password=01bead0e-3382-4e68-88d8-db16989cc6b1, obfs=wss, obfs-host=ap1-hk.sanjijia.club, obfs-uri=/ray, tls-verification=true, fast-open=false, udp-relay=false, tag=一键连香港（备用2）
-http=a1.ap.fastqvpn.com:29980, username=290966496207699968, password=01bead0e-3382-4e68-88d8-db16989cc6b1, over-tls=true, tls-verification=true, fast-open=false, udp-relay=false, tag=一键连（备用2）
 
+shadowsocks=music.desperadoj.com:30003, method=aes-128-gcm, password=desperadoj.com, fast-open=false, udp-relay=false, tag= 解锁网易云音乐4
+http=106.52.127.72:19951, over-tls=false, fast-open=false, udp-relay=false, tag=网易云野生技
+http=music.desperadoj.com:30002, username=Netease Music, password=none, over-tls=false, fast-open=false, udp-relay=false, tag=Netease China 1

@@ -16,6 +16,12 @@ shadowsocks=54.255.247.136:443, method=aes-256-cfb, password=amazonskr02, fast-o
 shadowsocks=47.240.48.28:45211, method=aes-256-cfb, password=aliskrskr, fast-open=true, udp-relay=true, tag=香港skr
 shadowsocks=18.177.142.15:80, method=aes-256-cfb, password=amazonskr02, fast-open=true, udp-relay=true, tag=美国skr
 
+shadowsocks=39.108.83.245:15024, method=chacha20-ietf, password=cc.ax, ssr-protocol=auth_aes128_md5, ssr-protocol-param=226141:PWtCEL, obfs=tls1.2_ticket_auth, obfs-host=update.microsoft.com, fast-open=false, udp-relay=false, tag=大佬🧍‍♂️深港
+
+shadowsocks=ipv4.ji-Y2H101-0000i01.yigeeb.ngcss-ddns-slb-02.com:387, method=chacha20-ietf, password=cc.ax, ssr-protocol=auth_aes128_md5, ssr-protocol-param=226141:PWtCEL, obfs=tls1.2_ticket_auth, obfs-host=update.microsoft.com, fast-open=false, udp-relay=false, tag=大佬🧍‍♂️tw
+
+
+
 
 shadowsocks=zhendefreeoneoulikepqa.zhxcshop.com:443, method=chacha20-ietf, password=kjasASHLoa, ssr-protocol=auth_aes128_sha1, ssr-protocol-param=6DTvYkX8, obfs=tls1.2_ticket_auth, obfs-host=sacucaoji.com, fast-open=false, udp-relay=false, tag=香港-B蓝兔子
 shadowsocks=nenggongfangprotwonali.zhxcshop.com:443, method=chacha20-ietf, password=kjasASHLoa, ssr-protocol=auth_aes128_sha1, ssr-protocol-param=6DTvYkX8, obfs=tls1.2_ticket_auth, obfs-host=sacucaoji.com, fast-open=false, udp-relay=false, tag=香港-D蓝兔子

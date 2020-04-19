@@ -8,3 +8,6 @@ vmess=23.224.179.166:443, method=chacha20-ietf-poly1305, password=418048af-a293-
 shadowsocks=39.108.83.245:15024, method=chacha20-ietf, password=cc.ax, ssr-protocol=auth_aes128_md5, ssr-protocol-param=226141:PWtCEL, obfs=tls1.2_ticket_auth, obfs-host=update.microsoft.com, fast-open=false, udp-relay=false, tag=大佬🧍‍♂️深港
 
 shadowsocks=ipv4.ji-Y2H101-0000i01.yigeeb.ngcss-ddns-slb-02.com:387, method=chacha20-ietf, password=cc.ax, ssr-protocol=auth_aes128_md5, ssr-protocol-param=226141:PWtCEL, obfs=tls1.2_ticket_auth, obfs-host=update.microsoft.com, fast-open=false, udp-relay=false, tag=大佬🧍‍♂️tw
+shadowsocks=52.187.169.27:10086, method=aes-256-gcm, password=.shdqqy2ruAzJK6EAy(T, fast-open=false, udp-relay=false, tag=Fake iAP Server 01
+shadowsocks=34.68.164.252:10086, method=aes-256-gcm, password=.shdqqy2ruAzJK6EAy(T, fast-open=false, udp-relay=false, tag=Fake iAP Server 02
+shadowsocks=139.162.35.212:10086, method=aes-256-gcm, password=.shdqqy2ruAzJK6EAy(T, fast-open=false, udp-relay=false, tag=Fake iAP Server 

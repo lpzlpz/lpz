@@ -16,13 +16,16 @@ trojan=alicloud2.chunyuan.monster:443, password=68b329da, over-tls=true, tls-ver
 shadowsocks=n73.boom.party:15000, method=aes-256-cfb, password=Uk92CS, ssr-protocol=auth_aes128_sha1, ssr-protocol-param=142401:5qoeLE, obfs=http_simple, fast-open=true, udp-relay=true, tag=日本
 
 
-http=a1.ap.fastqvpn.com:29980, username=290966496207699968, password=01bead0e-3382-4e68-88d8-db16989cc6b1, over-tls=true, tls-verification=true, fast-open=false, udp-relay=false, tag=一键连1
+http=a1.ap.fastqvpn.com:29980, username=290966496207699968, password=01bead0e-3382-4e68-88d8-db16989cc6b1, over-tls=true, tls-verification=true, fast-open=true, udp-relay=true, tag=一键连1
 
 http=a1.ap.fastqvpn.com:29980, username=290966496207699968, password=01bead0e-3382-4e68-88d8-db16989cc6b1, over-tls=true, tls-verification=true, fast-open=true, udp-relay=true, tag=一键连2
 
 http=a1.ap.fastqvpn.com:29980, username=290966496207699968, password=01bead0e-3382-4e68-88d8-db16989cc6b1, over-tls=true, tls-verification=true, fast-open=true, udp-relay=true, tag=一键连3
 
 http=a1.ap.fastqvpn.com:29980, username=290966496207699968, password=01bead0e-3382-4e68-88d8-db16989cc6b1, over-tls=true, tls-verification=true, fast-open=true, udp-relay=true, tag=一键连4
+
+
+http=au1.cn-cloudflare.com:443, username=, password=, over-tls=true, tls-verification=true, fast-open=true, udp-relay=true, tag=au
 
 
 

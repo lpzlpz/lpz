@@ -26,11 +26,7 @@ http=a1.ap.fastqvpn.com:29980, username=290966496207699968, password=01bead0e-33
 
 
 http=au1.cn-cloudflare.com:443, username=, password=, over-tls=true, tls-verification=true, fast-open=true, udp-relay=true, tag=澳大利亚
-http=ca.epicbrowser.net:8888, username=, password=, over-tls=true, tls-verification=true, fast-open=true, udp-relay=true, tag=加拿大1
-http=backup.theepicbrowser.com:8888, username=, password=, over-tls=true, tls-verification=true, fast-open=true, udp-relay=true, tag=加拿大2
-http=ca2.epicbrowser.net:8888, username=, password=, over-tls=true, tls-verification=true, fast-open=true, udp-relay=true, tag=加拿大3
-http=de.theepicbrowser.com:8888, username=, password=, over-tls=true, tls-verification=true, fast-open=true, udp-relay=true, tag=de
-http=de2.theepicbrowser.com:8888, username=, password=, over-tls=true, tls-verification=true, fast-open=true, udp-relay=true, tag=de
+
 
 
 vmess=ap1-hk.sanjijia.club:443, method=chacha20-ietf-poly1305, password=01bead0e-3382-4e68-88d8-db16989cc6b1, obfs=wss, obfs-host=ap1-hk.sanjijia.club, obfs-uri=/ray, tls-verification=true, fast-open=false, udp-relay=false, tag=一键连香港（备用2）

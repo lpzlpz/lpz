@@ -14,9 +14,23 @@ trojan=alicloud1.chunyuan.monster:443, password=900e35a7, over-tls=true, tls-ver
 trojan=alicloud2.chunyuan.monster:443, password=68b329da, over-tls=true, tls-verification=true, fast-open=false, udp-relay=false, tag=SG2-🇸🇬
 
 shadowsocks=n73.boom.party:15000, method=aes-256-cfb, password=Uk92CS, ssr-protocol=auth_aes128_sha1, ssr-protocol-param=142401:5qoeLE, obfs=http_simple, fast-open=true, udp-relay=true, tag=日本
-http=a1.ap.fastqvpn.com:29980, username=282520517406097408, password=21989f92-9154-499f-b9dd-86987239a94f, over-tls=true, tls-verification=true, fast-open=true, udp-relay=true, tag=一键连1
+
+
+http=a1.ap.fastqvpn.com:29980, username=290966496207699968, password=01bead0e-3382-4e68-88d8-db16989cc6b1, over-tls=true, tls-verification=true, fast-open=false, udp-relay=false, tag=一键连1
+
+http=a1.ap.fastqvpn.com:29980, username=290966496207699968, password=01bead0e-3382-4e68-88d8-db16989cc6b1, over-tls=true, tls-verification=true, fast-open=true, udp-relay=true, tag=一键连2
+
+http=a1.ap.fastqvpn.com:29980, username=290966496207699968, password=01bead0e-3382-4e68-88d8-db16989cc6b1, over-tls=true, tls-verification=true, fast-open=true, udp-relay=true, tag=一键连3
+
+http=a1.ap.fastqvpn.com:29980, username=290966496207699968, password=01bead0e-3382-4e68-88d8-db16989cc6b1, over-tls=true, tls-verification=true, fast-open=true, udp-relay=true, tag=一键连4
+
+
+
+
+
 vmess=ap1-hk.sanjijia.club:443, method=chacha20-ietf-poly1305, password=01bead0e-3382-4e68-88d8-db16989cc6b1, obfs=wss, obfs-host=ap1-hk.sanjijia.club, obfs-uri=/ray, tls-verification=true, fast-open=false, udp-relay=false, tag=一键连香港（备用2）
-http=a1.ap.fastqvpn.com:29980, username=290966496207699968, password=01bead0e-3382-4e68-88d8-db16989cc6b1, over-tls=true, tls-verification=true, fast-open=false, udp-relay=false, tag=一键连（备用2）
+
+
 shadowsocks=54.255.247.136:443, method=aes-256-cfb, password=amazonskr02, fast-open=true, udp-relay=true, tag=新加坡skr
 shadowsocks=47.240.48.28:45211, method=aes-256-cfb, password=aliskrskr, fast-open=true, udp-relay=true, tag=香港skr
 shadowsocks=18.177.142.15:80, method=aes-256-cfb, password=amazonskr02, fast-open=true, udp-relay=true, tag=美国skr

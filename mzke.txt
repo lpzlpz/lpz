@@ -33,8 +33,31 @@ shadowsocks=54.255.247.136:443, method=aes-256-cfb, password=amazonskr02, fast-o
 shadowsocks=47.240.48.28:45211, method=aes-256-cfb, password=aliskrskr, fast-open=true, udp-relay=true, tag=香港skr
 shadowsocks=18.177.142.15:80, method=aes-256-cfb, password=amazonskr02, fast-open=true, udp-relay=true, tag=美国skr
 
+vmess = pr.chaosddns.win:80, method=chacha20-ietf-poly1305, password=f32956e1-bf99-4ca5-97de-e12e719d16b1, obfs=ws, obfs-host=pr.chaosddns.win, obfs-uri=/, tag=🇺🇲 美国_ws
+vmess = eons.chaosddns.win:80, method=chacha20-ietf-poly1305, password=b7e5f117-b08a-44a0-8fc7-0f0ea1d95ef5, obfs=ws, obfs-host=eons.chaosddns.win, obfs-uri=/, tag=🇺🇲 美国_ws2
+vmess = anyhk.chaosddns.win:80, method=chacha20-ietf-poly1305, password=9781b087-5cbe-460b-c2ea-406f3a2acc7b, obfs=ws, obfs-host=anyhk.chaosddns.win, obfs-uri=/ws, tag=🇭🇰 anyHK_ws
+vmess = zzbgp.chaosddns.win:36082, method=chacha20-ietf-poly1305, password=9781b087-5cbe-460b-c2ea-406f3a2acc7b, obfs=ws, obfs-host=zzbgp.chaosddns.win, obfs-uri=/ws, tag=🇭🇰 ZZHK_ws
 
 
+
+trojan = hka.xiaobaicat.com:443, password=9418d636, over-tls=true, tls-host=hka.xiaobaicat.com, tag=🇭🇰 hka.xiaobaicat.com:443
+trojan = hkb.xiaobaicat.com:443, password=26feef19, over-tls=true, tls-host=hkb.xiaobaicat.com, tag=🇭🇰 hkb.xiaobaicat.com:443
+trojan = hkd.xiaobaicat.com:443, password=1b494f0d, over-tls=true, tls-host=hkd.xiaobaicat.com, tag=🇭🇰 hkd.xiaobaicat.com:443
+trojan = hke.xiaobaicat.com:443, password=56c2c148, over-tls=true, tls-host=hke.xiaobaicat.com, tag=🇭🇰 hke.xiaobaicat.com:443
+trojan = hkf.xiaobaicat.com:443, password=a554bc9f, over-tls=true, tls-host=hkf.xiaobaicat.com, tag=🇭🇰 hkf.xiaobaicat.com:443
+trojan = hkg.xiaobaicat.com:443, password=a024f041, over-tls=true, tls-host=hkg.xiaobaicat.com, tag=🇭🇰 hkg.xiaobaicat.com:443
+trojan = hkh.xiaobaicat.com:443, password=7ba62363, over-tls=true, tls-host=hkh.xiaobaicat.com, tag=🇭🇰 hkh.xiaobaicat.com:443
+trojan = hki.xiaobaicat.com:443, password=13f035b0, over-tls=true, tls-host=hki.xiaobaicat.com, tag=🇭🇰 hki.xiaobaicat.com:443
+trojan = hkj.xiaobaicat.com:443, password=20b63377, over-tls=true, tls-host=hkj.xiaobaicat.com, tag=🇭🇰 hkj.xiaobaicat.com:443
+trojan = hkk.xiaobaicat.com:443, password=af08db97, over-tls=true, tls-host=hkk.xiaobaicat.com, tag=🇭🇰 hkk.xiaobaicat.com:443
+
+
+
+
+vmess = ppp.jinweiheikeji.xyz:443, method=chacha20-ietf-poly1305, password=9846fdd6-10f3-4257-a522-b33a4b68f4b6, obfs=wss, obfs-host=ppp.jinweiheikeji.xyz, obfs-uri=/, tag=🇸🇬 【金威黑科技】阿里云新加坡-Nf
+vmess = xxx.jinweiheikeji.xyz:443, method=chacha20-ietf-poly1305, password=80854a95-603b-49d1-ad0e-51a45005f69e, obfs=wss, obfs-host=xxx.jinweiheikeji.xyz, obfs-uri=/, tag=🇸🇬 【金威黑科技】阿里云新加坡2
+vmess = mmm.jinweiheikeji.xyz:443, method=chacha20-ietf-poly1305, password=39900907-aaa8-4ee2-bc9e-23830c8e70e7, obfs=wss, obfs-host=mmm.jinweiheikeji.xyz, obfs-uri=/, tag=🇸🇬 【金威黑科技】阿里云新加坡
+vmess = 35.241.113.95:38383, method=chacha20-ietf-poly1305, password=234e4e61-eb66-4d5d-930f-451766a127b1, tag=🇭🇰 【金威黑科技】GCP香港测试
 
 
 shadowsocks=zhendefreeoneoulikepqa.zhxcshop.com:443, method=chacha20-ietf, password=kjasASHLoa, ssr-protocol=auth_aes128_sha1, ssr-protocol-param=6DTvYkX8, obfs=tls1.2_ticket_auth, obfs-host=sacucaoji.com, fast-open=false, udp-relay=false, tag=香港-B蓝兔子

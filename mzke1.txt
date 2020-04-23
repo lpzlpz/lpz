@@ -10,6 +10,8 @@
 
 🇯🇵 日本 = ShadowsocksR,n73.boom.party,15000,aes-256-cfb,"Uk92CS",auth_aes128_sha1,{142401:5qoeLE},http_simple,{cloudfront.net}
 
+
+
 🇭🇰 一键连香港（备用2） = vmess,ap1-hk.sanjijia.club,443,chacha20-ietf-poly1305,"01bead0e-3382-4e68-88d8-db16989cc6b1",over-tls:false,transport:tcp
 🇸🇬 新加坡skr = Shadowsocks,54.255.247.136,443,aes-256-cfb,"amazonskr02"
 🇭🇰 香港skr = Shadowsocks,47.240.48.28,45211,aes-256-cfb,"aliskrskr"
